@@ -1,0 +1,29 @@
+/* dark-theme.css */
+
+.root {
+    -fx-background-color: #323232; /* Dark gray background */
+    -fx-text-fill: white; /* White text color */
+}
+
+.label {
+    -fx-text-fill: white; /* White text color for labels */
+}
+
+.button {
+    -fx-background-color: #555555; /* Dark gray background for buttons */
+    -fx-text-fill: white; /* White text color for buttons */
+}
+
+.combo-box {
+    -fx-background-color: #555555; /* Dark gray background for combo boxes */
+    -fx-text-fill: white; /* White text color for combo boxes */
+}
+
+.text-field {
+    -fx-background-color: #555555; /* Dark gray background for text fields */
+    -fx-text-fill: white; /* White text color for text fields */
+}
+
+.result-label {
+    -fx-text-fill: blue; /* Blue text color for result label */
+}
