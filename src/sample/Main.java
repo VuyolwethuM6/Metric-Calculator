@@ -112,7 +112,7 @@ public class Main extends Application {
                     result = Double.NaN;
             }
             
-            // resultLabel.setText("Result: " + (Double.isNaN(result) ? "Invalid conversion" : String.format("%.2f %s", result, toUnit)));
+            
             if(Double.isNaN(result)){
                 resultLabel.setTextFill(Color.BLUE);
                 resultLabel.setText("Invalid conversion");
