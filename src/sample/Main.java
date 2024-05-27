@@ -34,7 +34,7 @@ public class Main extends Application {
         resultLabel = new Label("Result: ");
 
         resultLabel.setFont(Font.font("Arial", FontWeight.BOLD, 15));
-        // resultLabel.setTextFill(Color.BLUE);
+        
 
         // Set up event handling for the convert button
         convertButton.setOnAction(e -> convert());
