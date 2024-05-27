@@ -50,7 +50,7 @@ public class Main extends Application {
         heading.setFont(Font.font("Arial", FontWeight.BOLD, 30));
         grid.add(heading, 0, 0, 2, 1);
         GridPane.setMargin(heading, new Insets(0, 0, 10, 70));
-        // GridPane.setAlignment(heading, Pos.CENTER); 
+        
        
 
 
