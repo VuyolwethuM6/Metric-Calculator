@@ -111,7 +111,7 @@ public class Main extends Application {
                 default:
                     result = Double.NaN;
             }
-            // resultLabel.setTextFill(Color.RED);
+            
             // resultLabel.setText("Result: " + (Double.isNaN(result) ? "Invalid conversion" : String.format("%.2f %s", result, toUnit)));
             if(Double.isNaN(result)){
                 resultLabel.setTextFill(Color.BLUE);
