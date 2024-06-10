@@ -11,7 +11,7 @@
 
 .button {
     -fx-background-color: #555555; 
-    -fx-text-fill: white; /* White text color for buttons */
+    -fx-text-fill: white; 
 }
 
 .combo-box {
