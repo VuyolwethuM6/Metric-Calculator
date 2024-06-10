@@ -2,7 +2,7 @@
 
 .root {
     -fx-background-color: #323232; 
-    -fx-text-fill: white; /* White text color */
+    -fx-text-fill: white;
 }
 
 .label {
