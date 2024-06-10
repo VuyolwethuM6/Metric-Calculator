@@ -6,7 +6,7 @@
 }
 
 .label {
-    -fx-text-fill: white; /* White text color for labels */
+    -fx-text-fill: white; 
 }
 
 .button {
