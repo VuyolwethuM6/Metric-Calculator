@@ -10,7 +10,7 @@
 }
 
 .button {
-    -fx-background-color: #555555; /* Dark gray background for buttons */
+    -fx-background-color: #555555; 
     -fx-text-fill: white; /* White text color for buttons */
 }
 
