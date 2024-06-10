@@ -20,7 +20,7 @@
 }
 
 .text-field {
-    -fx-background-color: #555555; /* Dark gray background for text fields */
+    -fx-background-color: #555555; 
     -fx-text-fill: white; /* White text color for text fields */
 }
 
