@@ -1,7 +1,7 @@
 /* dark-theme.css */
 
 .root {
-    -fx-background-color: #323232; /* Dark gray background */
+    -fx-background-color: #323232; 
     -fx-text-fill: white; /* White text color */
 }
 
