@@ -25,7 +25,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Metric Converter");
 
-        // Create components
+       
         String[] units = {"Feet", "Meters", "Pounds", "Kilograms", "Fahrenheit", "Celsius"};
         fromUnitCombo = new ComboBox<>();
         toUnitCombo = new ComboBox<>();
